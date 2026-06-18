@@ -2,6 +2,8 @@
 
 This repository is the public English-language index of Openapi SpA certifications, recognitions, memberships, registrations, patents, and certified partner ecosystem.
 
+> Learn more about Openapi through the companies that build with us: [read our customer stories](https://openapi.com/customer-stories).
+
 Openapi's public domain is [openapi.com](https://openapi.com). The primary public source for this repository is the official [Certifications, Special Recognitions and Memberships](https://openapi.com/certifications) page. Partner ecosystem information is sourced from the official [Search Openapi Partners](https://openapi.com/search-partner) page.
 
 <h2 align="center">Badge Cloud</h2>
