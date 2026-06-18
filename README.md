@@ -4,6 +4,42 @@ This repository is the public English-language index of Openapi SpA certificatio
 
 Openapi's public domain is [openapi.com](https://openapi.com). The primary public source for this repository is the official [Certifications, Special Recognitions and Memberships](https://openapi.com/certifications) page. Partner ecosystem information is sourced from the official [Search Openapi Partners](https://openapi.com/search-partner) page.
 
+## Badge Cloud
+
+[![UNI EN ISO 9001:2015](https://img.shields.io/badge/UNI%20EN%20ISO-9001%3A2015-0F766E?style=for-the-badge)](https://openapi.com/certifications)
+[![UNI CEI ISO/IEC 25012:2014](https://img.shields.io/badge/UNI%20CEI%20ISO%2FIEC-25012%3A2014-0F766E?style=for-the-badge)](https://openapi.com/certifications)
+[![ISO/IEC 27001:2022](https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-0F766E?style=for-the-badge)](https://openapi.com/certifications)
+[![UNI PdR 125:2022](https://img.shields.io/badge/UNI%20PdR-125%3A2022-0F766E?style=for-the-badge)](https://openapi.com/certifications)
+[![TULPS](https://img.shields.io/badge/TULPS-public%20security%20licence-2563EB?style=for-the-badge)](https://openapi.com/certifications)
+[![Postal Operator](https://img.shields.io/badge/Postal%20Operator-AUG%2F7280%2F2024-2563EB?style=for-the-badge)](https://openapi.com/certifications)
+[![Corporate Messaging](https://img.shields.io/badge/Corporate%20Messaging-authorized-2563EB?style=for-the-badge)](https://openapi.com/certifications)
+[![Security Clearance](https://img.shields.io/badge/Security%20Clearance-highly%20confidential-7C3AED?style=for-the-badge)](https://openapi.com/certifications)
+[![SecurityMetrics PCI](https://img.shields.io/badge/SecurityMetrics-PCI%20validation-7C3AED?style=for-the-badge)](https://openapi.com/certifications)
+[![SOC 1 Type II](https://img.shields.io/badge/SOC%201-Type%20II-7C3AED?style=for-the-badge)](https://openapi.com/certifications)
+[![SOC 2 Type II](https://img.shields.io/badge/SOC%202-Type%20II-7C3AED?style=for-the-badge)](https://openapi.com/certifications)
+[![PCI-DSS Level 1](https://img.shields.io/badge/PCI--DSS-Level%201-7C3AED?style=for-the-badge)](https://openapi.com/certifications)
+[![CSA STAR](https://img.shields.io/badge/CSA-STAR%20self--assessment-7C3AED?style=for-the-badge)](https://openapi.com/certifications)
+[![OpenStack Powered](https://img.shields.io/badge/OpenStack-Powered-EA580C?style=for-the-badge)](https://openapi.com/certifications)
+[![Kubernetes Conformance](https://img.shields.io/badge/Kubernetes-Software%20Compliance-326CE5?style=for-the-badge)](https://openapi.com/certifications)
+[![Alphanumeric Aliases](https://img.shields.io/badge/Aliases-Code%20of%20Conduct-475569?style=for-the-badge)](https://openapi.com/certifications)
+[![Software Made in Europe](https://img.shields.io/badge/Software-Made%20in%20Europe-003399?style=for-the-badge)](https://openapi.com/certifications)
+[![Legality Rating](https://img.shields.io/badge/Legality%20Rating-Star%20%2B%2B-15803D?style=for-the-badge)](https://openapi.com/certifications)
+[![ANCIC](https://img.shields.io/badge/Member-ANCIC-334155?style=for-the-badge)](https://openapi.com/certifications)
+[![Confcommercio](https://img.shields.io/badge/Member-Confcommercio-334155?style=for-the-badge)](https://openapi.com/certifications)
+[![Assintel](https://img.shields.io/badge/Member-Assintel-334155?style=for-the-badge)](https://openapi.com/certifications)
+[![European DIGITAL SME](https://img.shields.io/badge/Member-European%20DIGITAL%20SME-334155?style=for-the-badge)](https://openapi.com/certifications)
+[![Federpol](https://img.shields.io/badge/Member-Federpol-334155?style=for-the-badge)](https://openapi.com/certifications)
+[![Linux Foundation Silver Member](https://img.shields.io/badge/Linux%20Foundation-Silver%20Member-FCC624?style=for-the-badge&logo=linux&logoColor=111111)](https://openapi.com/certifications)
+[![NIS2](https://img.shields.io/badge/NIS2-registered-0E7490?style=for-the-badge)](https://openapi.com/certifications)
+[![National Research Register](https://img.shields.io/badge/National%20Research%20Register-62075MDL-0E7490?style=for-the-badge)](https://openapi.com/certifications)
+[![MEPA](https://img.shields.io/badge/MEPA-1602049-0E7490?style=for-the-badge)](https://openapi.com/certifications)
+[![NIC](https://img.shields.io/badge/NIC-AVS--REG-0E7490?style=for-the-badge)](https://openapi.com/certifications)
+[![ROC](https://img.shields.io/badge/ROC-37776-0E7490?style=for-the-badge)](https://openapi.com/certifications)
+[![RPO](https://img.shields.io/badge/RPO-adherent-0E7490?style=for-the-badge)](https://openapi.com/certifications)
+[![SmartFire](https://img.shields.io/badge/SmartFire-patent%20and%20trademark-B45309?style=for-the-badge)](https://openapi.com/certifications)
+[![Certified Partners](https://img.shields.io/badge/Certified%20Partners-51-111827?style=for-the-badge)](https://openapi.com/search-partner)
+[![Partner Level](https://img.shields.io/badge/Partner%20Levels-Start%20%7C%20Gold-111827?style=for-the-badge)](https://openapi.com/search-partner)
+
 ## Certifications
 
 Openapi publishes the following certifications and authorizations:
